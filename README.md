@@ -12,8 +12,9 @@ Kick off your project with this blog boilerplate. This starter ships with the ma
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-`'test »  '`
-
+<code>
+`'test  '`
+</code>
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
