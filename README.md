@@ -18,7 +18,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 'test   '
 </pre>
 
-```javascript=
+```javascript
 let a = ' test   ';
 ```
 
