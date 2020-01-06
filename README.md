@@ -12,9 +12,22 @@ Kick off your project with this blog boilerplate. This starter ships with the ma
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-<code>
+<style>
+  .test {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    padding: .2em .4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(27,31,35,.05);
+    border-radius: 3px;
+}
+ </style>
+
+<pre class="test">
 'test   '
-</code>
+</pre>
+<br>
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
