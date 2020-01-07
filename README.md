@@ -14,13 +14,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 
 
-<pre class="test" width="0">
-'test   '
-</pre>
-
-```javascript
-let a = ' test   ';
-```
+`' test   space'`
 
 
 <br>
